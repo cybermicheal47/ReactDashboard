@@ -50,3 +50,55 @@ export const useRrows = [
     Avatar: pic,
   },
 ];
+
+export const productRows = [
+  {
+    id: 1,
+    name: "  Shoe",
+    status: "active",
+    stock: 23,
+    Price: "$120",
+    img: pic,
+  },
+  {
+    id: 2,
+    name: "  Shoe",
+    status: "active",
+    stock: 23,
+    Price: "$120",
+    img: pic,
+  },
+  {
+    id: 3,
+    name: "  Shoe",
+    status: "active",
+    stock: 23,
+    Price: "$120",
+    img: pic,
+  },
+  {
+    id: 4,
+    name: "  Shoe",
+    status: "active",
+    stock: 23,
+    Price: "$120",
+    img: pic,
+  },
+];
+
+export const productData = [
+  {
+    name: "Jan",
+    "Sales": 1000,
+  },
+
+  {
+    name: "feb",
+    "Sales": 3000,
+  },
+
+  {
+    name: "march",
+    "Sales": 6000,
+  },
+];
